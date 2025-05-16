@@ -19,11 +19,7 @@ public class Principal {
 		int existencia, menuPrin;
 		
 		
-		//se agrego este codigo para git
-		int valor1 = 0;
 		
-		int resultado = valor1*25;
-		System.out.println("RESULTADO " + resultado);
 
 		Llantas llanta;
 
