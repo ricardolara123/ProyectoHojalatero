@@ -17,6 +17,13 @@ public class Principal {
 		String medidas;
 		float precio;
 		int existencia, menuPrin;
+		
+		
+		//se agrego este codigo para git
+		int valor1 = 0;
+		
+		int resultado = valor1*25;
+		System.out.println("RESULTADO " + resultado);
 
 		Llantas llanta;
 
